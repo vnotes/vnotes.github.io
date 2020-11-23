@@ -3,26 +3,98 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://vnotes.github.io/posts/julia/</loc>
-    <lastmod>2020-11-20T19:50:24+08:00</lastmod>
+    <loc>http://example.org/post/</loc>
+    <lastmod>2020-11-11T11:11:11-11:11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://vnotes.github.io/posts/</loc>
-    <lastmod>2020-11-20T19:50:24+08:00</lastmod>
+    <loc>http://example.org/</loc>
+    <lastmod>2020-11-11T11:11:11-11:11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://vnotes.github.io/</loc>
-    <lastmod>2020-11-20T19:50:24+08:00</lastmod>
+    <loc>http://example.org/tags/golang/</loc>
+    <lastmod>2020-11-06T11:11:11-11:11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://vnotes.github.io/categories/</loc>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2020-11-06T11:11:11-11:11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://vnotes.github.io/tags/</loc>
+    <loc>http://example.org/post/chapter-6/</loc>
+    <lastmod>2020-11-06T11:11:11-11:11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/chapter-5/</loc>
+    <lastmod>2020-11-05T11:11:11-11:11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/chapter-4/</loc>
+    <lastmod>2020-11-04T11:11:11-11:11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/chapter-3/</loc>
+    <lastmod>2020-11-03T11:11:11-11:11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/chapter-2/</loc>
+    <lastmod>2020-11-02T11:11:11-11:11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/redis/</loc>
+    <lastmod>2020-11-01T11:11:11-11:11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/chapter-1/</loc>
+    <lastmod>2020-11-01T11:11:11-11:11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
