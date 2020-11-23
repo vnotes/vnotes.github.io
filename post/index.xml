@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>胡说八道 on 利世小姐</title>
-    <link>http://example.org/post/</link>
+    <link>https://vnotes.github.io/post/</link>
     <description>Recent content in 胡说八道 on 利世小姐</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 11 Nov 2020 11:11:11 -1111</lastBuildDate><atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Nov 2020 11:11:11 -1111</lastBuildDate><atom:link href="https://vnotes.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>第六篇</title>
-      <link>http://example.org/post/chapter-6/</link>
+      <link>https://vnotes.github.io/post/chapter-6/</link>
       <pubDate>Fri, 06 Nov 2020 11:11:11 -1111</pubDate>
       
-      <guid>http://example.org/post/chapter-6/</guid>
+      <guid>https://vnotes.github.io/post/chapter-6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>第五篇</title>
-      <link>http://example.org/post/chapter-5/</link>
+      <link>https://vnotes.github.io/post/chapter-5/</link>
       <pubDate>Thu, 05 Nov 2020 11:11:11 -1111</pubDate>
       
-      <guid>http://example.org/post/chapter-5/</guid>
+      <guid>https://vnotes.github.io/post/chapter-5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>第四篇</title>
-      <link>http://example.org/post/chapter-4/</link>
+      <link>https://vnotes.github.io/post/chapter-4/</link>
       <pubDate>Wed, 04 Nov 2020 11:11:11 -1111</pubDate>
       
-      <guid>http://example.org/post/chapter-4/</guid>
+      <guid>https://vnotes.github.io/post/chapter-4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>第三篇</title>
-      <link>http://example.org/post/chapter-3/</link>
+      <link>https://vnotes.github.io/post/chapter-3/</link>
       <pubDate>Tue, 03 Nov 2020 11:11:11 -1111</pubDate>
       
-      <guid>http://example.org/post/chapter-3/</guid>
+      <guid>https://vnotes.github.io/post/chapter-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>第二篇</title>
-      <link>http://example.org/post/chapter-2/</link>
+      <link>https://vnotes.github.io/post/chapter-2/</link>
       <pubDate>Mon, 02 Nov 2020 11:11:11 -1111</pubDate>
       
-      <guid>http://example.org/post/chapter-2/</guid>
+      <guid>https://vnotes.github.io/post/chapter-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>第一篇</title>
-      <link>http://example.org/post/chapter-1/</link>
+      <link>https://vnotes.github.io/post/chapter-1/</link>
       <pubDate>Sun, 01 Nov 2020 11:11:11 -1111</pubDate>
       
-      <guid>http://example.org/post/chapter-1/</guid>
+      <guid>https://vnotes.github.io/post/chapter-1/</guid>
       <description></description>
     </item>
     

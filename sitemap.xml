@@ -3,96 +3,96 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://vnotes.github.io/post/</loc>
     <lastmod>2020-11-11T11:11:11-11:11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://vnotes.github.io/</loc>
     <lastmod>2020-11-11T11:11:11-11:11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/golang/</loc>
+    <loc>https://vnotes.github.io/tags/golang/</loc>
     <lastmod>2020-11-06T11:11:11-11:11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://vnotes.github.io/tags/</loc>
     <lastmod>2020-11-06T11:11:11-11:11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/chapter-6/</loc>
+    <loc>https://vnotes.github.io/post/chapter-6/</loc>
     <lastmod>2020-11-06T11:11:11-11:11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/chapter-5/</loc>
+    <loc>https://vnotes.github.io/post/chapter-5/</loc>
     <lastmod>2020-11-05T11:11:11-11:11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/chapter-4/</loc>
+    <loc>https://vnotes.github.io/post/chapter-4/</loc>
     <lastmod>2020-11-04T11:11:11-11:11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/chapter-3/</loc>
+    <loc>https://vnotes.github.io/post/chapter-3/</loc>
     <lastmod>2020-11-03T11:11:11-11:11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/chapter-2/</loc>
+    <loc>https://vnotes.github.io/post/chapter-2/</loc>
     <lastmod>2020-11-02T11:11:11-11:11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/redis/</loc>
+    <loc>https://vnotes.github.io/tags/redis/</loc>
     <lastmod>2020-11-01T11:11:11-11:11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/chapter-1/</loc>
+    <loc>https://vnotes.github.io/post/chapter-1/</loc>
     <lastmod>2020-11-01T11:11:11-11:11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://vnotes.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://vnotes.github.io/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://vnotes.github.io/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
